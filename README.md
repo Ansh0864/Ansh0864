@@ -11,9 +11,9 @@
 
 ### 👨‍💻 About Me
 
-Hi 👋 I'm Ansh, a B.Tech Computer Science student ('27) passionate about merging full-stack web engineering with AI innovation[cite: 2]. I thrive on building systems that are functional, scalable, and intelligent.
+Hi 👋 I'm Ansh, a B.Tech Computer Science student ('27) passionate about merging full-stack web engineering with AI innovation. I thrive on building systems that are functional, scalable, and intelligent.
 
-My foundation lies in Data Structures and Algorithms (Java) and the MERN stack, allowing me to craft responsive interfaces and API-driven architectures[cite: 2]. Expanding into Data Science and Generative AI has allowed me to engineer dynamic tool-calling pipelines and autonomous AI agents[cite: 2]. Today, I seamlessly transition between designing intuitive React UIs and integrating Large Language Models (LLMs) via LangChain and RAG architectures to automate complex workflows.
+My foundation lies in Data Structures and Algorithms (Java) and the MERN stack, allowing me to craft responsive interfaces and API-driven architectures. Expanding into Data Science and Generative AI has allowed me to engineer dynamic tool-calling pipelines and autonomous AI agents. Today, I seamlessly transition between designing intuitive React UIs and integrating Large Language Models (LLMs) via LangChain and RAG architectures to automate complex workflows.
 
 ---
 
@@ -46,18 +46,18 @@ My foundation lies in Data Structures and Algorithms (Java) and the MERN stack, 
 ### 📌 Featured Projects
 
 🔹 **CodeArena | Real-Time Competitive Programming Platform**
-* Engineered a high-concurrency matchmaking system using Socket.io and an ELO rating algorithm to pair users based on skill levels for live 1v1 coding duels[cite: 2]. 
-* Architected specialized competitive modes (Rapid Duel, Bug Hunter, Code Duel, Complexity Duel) with real-time progress syncing[cite: 2].
-* Implemented room-based architecture for managing different users joining and leaving session environments[cite: 2].
+* Engineered a high-concurrency matchmaking system using Socket.io and an ELO rating algorithm to pair users based on skill levels for live 1v1 coding duels. 
+* Architected specialized competitive modes (Rapid Duel, Bug Hunter, Code Duel, Complexity Duel) with real-time progress syncing.
+* Implemented room-based architecture for managing different users joining and leaving session environments.
 
 🔹 **MarketAgent | AI-Powered Financial RAG System**
-* Architected an autonomous financial intelligence platform utilizing an Agentic Retrieval-Augmented Generation (RAG) architecture to synthesize structured research reports[cite: 2].
-* Engineered dynamic tool-calling pipelines using LangChain.js to integrate Google Gemini with external data sources (Polygon.io, Tavily AI), grounding the model in real-time facts[cite: 2].
-* Built robust backend fallback mechanisms in Node.js/Express to handle third-party API rate limits during autonomous data retrieval[cite: 2].
+* Architected an autonomous financial intelligence platform utilizing an Agentic Retrieval-Augmented Generation (RAG) architecture to synthesize structured research reports.
+* Engineered dynamic tool-calling pipelines using LangChain.js to integrate Google Gemini with external data sources (Polygon.io, Tavily AI), grounding the model in real-time facts.
+* Built robust backend fallback mechanisms in Node.js/Express to handle third-party API rate limits during autonomous data retrieval.
 
 🔹 **HerbTrace | AI-Powered Herb Classification System**
-* Developed a full-stack system to ensure the authenticity and transparency of Ayurvedic herbs from farmer to consumer using AI[cite: 2].
-* Integrated a machine learning model (CNN) using TensorFlow and Keras to automatically classify herb species from uploaded images with high accuracy[cite: 2].
+* Developed a full-stack system to ensure the authenticity and transparency of Ayurvedic herbs from farmer to consumer using AI.
+* Integrated a machine learning model (CNN) using TensorFlow and Keras to automatically classify herb species from uploaded images with high accuracy.
 * Integrated FastAPI alongside Groq and Gemini APIs to process and validate intelligent supply chain data efficiently.
 
 ---

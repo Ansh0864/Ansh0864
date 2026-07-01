@@ -13,7 +13,7 @@
 
 Hi 👋 I'm Ansh, a B.Tech Computer Science student ('27) passionate about merging full-stack web engineering with AI innovation[cite: 2]. I thrive on building systems that are functional, scalable, and intelligent.
 
-My foundation lies in Data Structures and Algorithms (Java) and the MERN stack, allowing me to craft responsive interfaces and API-driven architectures[cite: 2]. Expanding into Data Science and Generative AI has allowed me to engineer dynamic tool-calling pipelines and autonomous AI agents[cite: 2]. Today, I seamlessly transition between designing intuitive React UIs and integrating Large Language Models (LLMs) via LangChain and RAG architectures to automate complex workflows[cite: 2].
+My foundation lies in Data Structures and Algorithms (Java) and the MERN stack, allowing me to craft responsive interfaces and API-driven architectures[cite: 2]. Expanding into Data Science and Generative AI has allowed me to engineer dynamic tool-calling pipelines and autonomous AI agents[cite: 2]. Today, I seamlessly transition between designing intuitive React UIs and integrating Large Language Models (LLMs) via LangChain and RAG architectures to automate complex workflows.
 
 ---
 

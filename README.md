@@ -189,7 +189,6 @@ My foundation lies in Data Structures and Algorithms (Java) and the MERN stack, 
 
 ---
 
-
 ### 📬 Connect With Me
 
 <div align="center">
